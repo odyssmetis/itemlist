@@ -5105,7 +5105,97 @@
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
+	},
+	{
+		"abr": "clothingrack",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "doubleshelf",
+		"price": 224,
+		"category": "Furniture",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "foodbasket",
+		"price": 270,
+		"category": "Furniture",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "hampers",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "hayloft",
+		"price": 287,
+		"category": "Furniture",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "mealtrayrack",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "meathook",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 203,
+		"category": "Furniture",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "pallet",
+		"price": 220,
+		"category": "Furniture",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "palletwithwrapping",
+		"price": 321,
+		"category": "Furniture",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "safe",
+		"price": 1017,
+		"category": "Furniture",
+		"defname": "LWM_Safe"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "tallshelves",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
 	}
 	],
-	"total": 851
+	"total": 866
 }

@@ -120,12 +120,6 @@
     "version": null
   },
   {
-    "author": "Crlsniper and  Scherub",
-    "name": "Realistic Rooms [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -706,5 +700,17 @@
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.3.1"
+  },
+  {
+    "author": "Lucifer",
+    "name": "Realistic Rooms Rewritten",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
   }
 ]
