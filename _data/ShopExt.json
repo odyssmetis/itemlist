@@ -63,7 +63,7 @@
     {
       "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
       "stats": [
-
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
         "abrasive",
@@ -81,7 +81,7 @@
           "psychopath"
         ],
         "stats": [
-
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Kind",
@@ -95,7 +95,7 @@
     {
       "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -111,7 +111,7 @@
 
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Psychopath",
@@ -155,7 +155,7 @@
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -171,7 +171,7 @@
 
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Abrasive",
@@ -389,7 +389,7 @@
     {
       "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "greedy",
@@ -409,7 +409,7 @@
           "gourmand"
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Ascetic",
@@ -428,9 +428,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -446,8 +446,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -458,9 +458,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -476,8 +476,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -488,9 +488,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -506,8 +506,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
