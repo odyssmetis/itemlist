@@ -175,7 +175,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "wanderer": {
+  "wandererjoins": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
