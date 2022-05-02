@@ -3,10 +3,16 @@ title: Mod List
 layout: page
 permalink: /modlist
 ---
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Darkmode.js/1.5.7/darkmode-js.min.js" crossorigin="anonymous"></script>
 <script src="{{- 'assets/js/filter.js' | relative_url -}}"></script>
 <link rel="stylesheet" href="{{- 'assets/css/core.css' | relative_url -}} " />
 <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+<script>
+    function addDarkmodeWidget() {
+        new Darkmode().showWidget();
+    }
+    window.addEventListener('load', addDarkmodeWidget);
+</script>
 
 <div id="mods">
     {%- include search.html
