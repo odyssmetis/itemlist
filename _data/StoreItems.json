@@ -5807,6 +5807,144 @@
 		"price": 184,
 		"category": "Furniture",
 		"defname": "Spacer_OutdoorDarkLamp"
+	},
+	{
+		"abr": "overalls",
+		"price": 180,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Overalls"
+	},
+	{
+		"abr": "peltcoat",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_PeltCoat"
+	},
+	{
+		"abr": "rags",
+		"price": 183,
+		"category": "Apparel",
+		"defname": "VIEHAR_Apparel_Rags"
+	},
+	{
+		"abr": "scarf",
+		"price": 91,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Scarf"
+	},
+	{
+		"abr": "sheriffshirt",
+		"price": 213,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_SheriffShirt"
+	},
+	{
+		"abr": "shirtandtie",
+		"price": 151,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_ShirtandTie"
+	},
+	{
+		"abr": "shoes",
+		"price": 114,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Footwear_Shoes"
+	},
+	{
+		"abr": "shorts",
+		"price": 141,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Shorts"
+	},
+	{
+		"abr": "skirt",
+		"price": 142,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Skirt"
+	},
+	{
+		"abr": "skullcap",
+		"price": 57,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_Skullcap"
+	},
+	{
+		"abr": "spacerdarklamp",
+		"price": 184,
+		"category": "Furniture",
+		"defname": "Light_SpacerDarkLamp"
+	},
+	{
+		"abr": "spikedskullcap",
+		"price": 153,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_SpikedSkullcap"
+	},
+	{
+		"abr": "suitjacket",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_SuitJacket"
+	},
+	{
+		"abr": "summerhat",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_SummerHat"
+	},
+	{
+		"abr": "sunglasses",
+		"price": 156,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Sunglasses"
+	},
+	{
+		"abr": "surgicalmask",
+		"price": 121,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_SurgicalMask"
+	},
+	{
+		"abr": "tanktop",
+		"price": 107,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TankTop"
+	},
+	{
+		"abr": "trapperhat",
+		"price": 130,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_TrapperHat"
+	},
+	{
+		"abr": "tribalkilt",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalKilt"
+	},
+	{
+		"abr": "tribalponcho",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalPoncho"
+	},
+	{
+		"abr": "trousers",
+		"price": 164,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Trousers"
+	},
+	{
+		"abr": "tunic",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Tunic"
+	},
+	{
+		"abr": "widehat",
+		"price": 126,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_WideHat"
 	}
 	],
 	"total": 991
