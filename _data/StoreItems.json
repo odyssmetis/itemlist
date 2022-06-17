@@ -5945,7 +5945,907 @@
 		"price": 126,
 		"category": "Headgear",
 		"defname": "VIEHAR_Apparel_WideHat"
-	}
+	},
+	{
+		"abr": "ah-1zviper(attack)",
+		"price": 10542,
+		"category": "Buildings",
+		"defname": "ELIFAH-1ZVAttack"
+	},
+	{
+		"abr": "ah-6mlittlebird(attack)",
+		"price": 2967,
+		"category": "Buildings",
+		"defname": "ELIFMH-6LBAttack"
+	},
+	{
+		"abr": "ancientairconditioner",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientAirConditioner"
+	},
+	{
+		"abr": "ancientatm",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientATM"
+	},
+	{
+		"abr": "ancientbarrel",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientBarrel"
+	},
+	{
+		"abr": "ancientbed",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VME_AncientBed"
+	},
+	{
+		"abr": "ancientcentipedeshell",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientCentipedeShell"
+	},
+	{
+		"abr": "ancientcontainer",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientContainer"
+	},
+	{
+		"abr": "ancientcrate",
+		"price": 2,
+		"category": "Misc",
+		"defname": "VME_AncientCrate"
+	},
+	{
+		"abr": "ancientdisplaybank",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientDisplayBank"
+	},
+	{
+		"abr": "ancientengineblock",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientRustedEngineBlock"
+	},
+	{
+		"abr": "ancientequipmentblocks",
+		"price": 12,
+		"category": "Misc",
+		"defname": "VME_AncientEquipmentBlocks"
+	},
+	{
+		"abr": "ancientfence",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientFence"
+	},
+	{
+		"abr": "ancientgenerator",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientGenerator"
+	},
+	{
+		"abr": "ancientgiantwheel",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientGiantWheel"
+	},
+	{
+		"abr": "ancienthydrant",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientHydrant"
+	},
+	{
+		"abr": "ancientkitchensink",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientKitchenSink"
+	},
+	{
+		"abr": "ancientlargecrate",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientLargeCrate"
+	},
+	{
+		"abr": "ancientlockerbank",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VME_AncientLockerBank"
+	},
+	{
+		"abr": "ancientlongcrate",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientLongCrate"
+	},
+	{
+		"abr": "ancientmachine",
+		"price": 18,
+		"category": "Misc",
+		"defname": "VME_AncientMachine"
+	},
+	{
+		"abr": "ancientmacro-engineblock",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientLargeRustedEngineBlock"
+	},
+	{
+		"abr": "ancientmechdropbeacon",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientMechDropBeacon"
+	},
+	{
+		"abr": "ancientmechanoidshell",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientMechanoidShell"
+	},
+	{
+		"abr": "ancientmega-cannonbarrel",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientMegaCannonBarrel"
+	},
+	{
+		"abr": "ancientmega-cannonplatform",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientMegaCannonTripod"
+	},
+	{
+		"abr": "ancientmicrowave",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientMicrowave"
+	},
+	{
+		"abr": "ancientmilitarycrate",
+		"price": 2,
+		"category": "Misc",
+		"defname": "VME_AncientMilitaryCrate"
+	},
+	{
+		"abr": "ancientnavbeacon",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientShipBeacon"
+	},
+	{
+		"abr": "ancientoperatingtable",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientOperatingTable"
+	},
+	{
+		"abr": "ancientoven",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientOven"
+	},
+	{
+		"abr": "ancientpipes",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientPipes"
+	},
+	{
+		"abr": "ancientpostbox",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientPostbox"
+	},
+	{
+		"abr": "ancientrazorwire",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientRazorWire"
+	},
+	{
+		"abr": "ancientrefrigerator",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientRefrigerator"
+	},
+	{
+		"abr": "ancientsecurityturret",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientSecurityTurret"
+	},
+	{
+		"abr": "ancientshoppingcart",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientShoppingCart"
+	},
+	{
+		"abr": "ancientsmallcrate",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientSmallCrate"
+	},
+	{
+		"abr": "ancientspacejunk",
+		"price": 2,
+		"category": "Misc",
+		"defname": "VME_AncientSpaceJunk"
+	},
+	{
+		"abr": "ancientspacercrate",
+		"price": 2,
+		"category": "Misc",
+		"defname": "VME_AncientSpacerCrate"
+	},
+	{
+		"abr": "ancientstoragecylinder",
+		"price": 12,
+		"category": "Misc",
+		"defname": "VME_AncientStorageCylinder"
+	},
+	{
+		"abr": "ancientstove",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientStove"
+	},
+	{
+		"abr": "ancientsystemrack",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientSystemRack"
+	},
+	{
+		"abr": "ancienttanktrap",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientTankTrap"
+	},
+	{
+		"abr": "ancienttoilet",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientToilet"
+	},
+	{
+		"abr": "ancientvendingmachine",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientVendingMachine"
+	},
+	{
+		"abr": "ancientwashingmachine",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientWashingMachine"
+	},
+	{
+		"abr": "ancientwheel",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientWheel"
+	},
+	{
+		"abr": "arapaima(adeptcatch)",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_ArapaimaItem"
+	},
+	{
+		"abr": "aw109agustawestland(transport)",
+		"price": 14517,
+		"category": "Buildings",
+		"defname": "ELIFAW109VTransport"
+	},
+	{
+		"abr": "ballisticmask",
+		"price": 80,
+		"category": "Headgear",
+		"defname": "ROCA_Apparel_BallisticMask"
+	},
+	{
+		"abr": "banner",
+		"price": 312,
+		"category": "Furniture",
+		"defname": "VFEPD_Banner"
+	},
+	{
+		"abr": "bdu",
+		"price": 79,
+		"category": "Apparel",
+		"defname": "ROCA_Apparel_BDUBlack"
+	},
+	{
+		"abr": "bdu(asid)",
+		"price": 79,
+		"category": "Apparel",
+		"defname": "ROCA_Apparel_BDUASID"
+	},
+	{
+		"abr": "bdupants",
+		"price": 375,
+		"category": "Armor",
+		"defname": "ROCA_BDUPants"
+	},
+	{
+		"abr": "bonfire",
+		"price": 833,
+		"category": "Misc",
+		"defname": "VME_Bonfire"
+	},
+	{
+		"abr": "butterfish(adeptcatch)",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_ButterFishItem"
+	},
+	{
+		"abr": "cagebrazier",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "VFEPD_CageBrazier"
+	},
+	{
+		"abr": "ch-46eseaknight(transport)",
+		"price": 18733,
+		"category": "Buildings",
+		"defname": "ELIFCH-46ETransport"
+	},
+	{
+		"abr": "coffeetable(1x1)",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "VFEPD_CoffeeTableSmall"
+	},
+	{
+		"abr": "coffeetable(2x1)",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "VFEPD_CoffeeTable"
+	},
+	{
+		"abr": "coltcanadac8thebrit",
+		"price": 900,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_ColtCanadaCEight"
+	},
+	{
+		"abr": "combatarmorvestbdu",
+		"price": 517,
+		"category": "Armor",
+		"defname": "Apparel_BritBDUArmor"
+	},
+	{
+		"abr": "combatunifrombdu",
+		"price": 286,
+		"category": "Apparel",
+		"defname": "Apparel_BritBDUUniform"
+	},
+	{
+		"abr": "crayfish(adeptcatch)",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_CrayfishItem"
+	},
+	{
+		"abr": "desk",
+		"price": 138,
+		"category": "Furniture",
+		"defname": "VFEPD_Desk"
+	},
+	{
+		"abr": "eldritchslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_EldritchSlab_Broad"
+	},
+	{
+		"abr": "eldritchslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_EldritchSlab_Medium"
+	},
+	{
+		"abr": "em-2",
+		"price": 900,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_EMTwo"
+	},
+	{
+		"abr": "embh105helmet",
+		"price": 433,
+		"category": "Headgear",
+		"defname": "ROCA_Apparel_Helmet"
+	},
+	{
+		"abr": "embh105helmet(covered)",
+		"price": 433,
+		"category": "Headgear",
+		"defname": "ROCA_Apparel_HelmetCover"
+	},
+	{
+		"abr": "embh105helmet(gasmask)",
+		"price": 625,
+		"category": "Headgear",
+		"defname": "ROCA_Apparel_HelmetGasMask"
+	},
+	{
+		"abr": "embh105helmet(sunglasses)",
+		"price": 433,
+		"category": "Headgear",
+		"defname": "ROCA_Apparel_HelmetEyeCover"
+	},
+	{
+		"abr": "embh105helmetasid",
+		"price": 433,
+		"category": "Headgear",
+		"defname": "ROCA_Apparel_ASIDHelmet"
+	},
+	{
+		"abr": "embh105helmetasid(covered)",
+		"price": 433,
+		"category": "Headgear",
+		"defname": "ROCA_Apparel_ASIDHelmetCover"
+	},
+	{
+		"abr": "embh105helmetasid(gasmask)",
+		"price": 625,
+		"category": "Headgear",
+		"defname": "ROCA_Apparel_ASIDHelmetGasMask"
+	},
+	{
+		"abr": "embh105helmetasid(sunglasses)",
+		"price": 433,
+		"category": "Headgear",
+		"defname": "ROCA_Apparel_ASIDHelmetEyeCover"
+	},
+	{
+		"abr": "emptybrazier",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "VFEPD_BrazierEmpty"
+	},
+	{
+		"abr": "esotericismslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_EsotericismSlab_Broad"
+	},
+	{
+		"abr": "esotericismslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_EsotericismSlab_Medium"
+	},
+	{
+		"abr": "fastraidhelmetbdu",
+		"price": 692,
+		"category": "Headgear",
+		"defname": "Apparel_BritBDUHelmet"
+	},
+	{
+		"abr": "fleshcraftedarm",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedArm"
+	},
+	{
+		"abr": "fleshcraftedear",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedEar"
+	},
+	{
+		"abr": "fleshcraftedeye",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedEye"
+	},
+	{
+		"abr": "fleshcraftedfinger",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedFinger"
+	},
+	{
+		"abr": "fleshcraftedfoot",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedFoot"
+	},
+	{
+		"abr": "fleshcraftedhand",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedHand"
+	},
+	{
+		"abr": "fleshcraftedheart",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedHeart"
+	},
+	{
+		"abr": "fleshcraftedjaw",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedJaw"
+	},
+	{
+		"abr": "fleshcraftedkidney",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedKidney"
+	},
+	{
+		"abr": "fleshcraftedleg",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedLeg"
+	},
+	{
+		"abr": "fleshcraftedliver",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedLiver"
+	},
+	{
+		"abr": "fleshcraftedlung",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedLung"
+	},
+	{
+		"abr": "fleshcraftednose",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedNose"
+	},
+	{
+		"abr": "fleshcraftedspine",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedSpine"
+	},
+	{
+		"abr": "fleshcraftedstomach",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedStomach"
+	},
+	{
+		"abr": "fleshcraftedtoe",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedToe"
+	},
+	{
+		"abr": "fleshcraftedtongue",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedTongue"
+	},
+	{
+		"abr": "flyingfish(adeptcatch)",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_FlyingFishItem"
+	},
+	{
+		"abr": "frcombatshirt(tmcblack)",
+		"price": 149,
+		"category": "Clothes",
+		"defname": "TMCApparel_CombatShirt_Black"
+	},
+	{
+		"abr": "frplatecarrier(tmcblack)",
+		"price": 375,
+		"category": "Body armor",
+		"defname": "TMCApparel_FRPlateCarrier_Black"
+	},
+	{
+		"abr": "freshwaterstingray(adeptcatch)",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_FreshwaterStingrayItem"
+	},
+	{
+		"abr": "l85a1",
+		"price": 892,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_LEightyFiveAOne"
+	},
+	{
+		"abr": "l85a2",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_LEightyFiveATwo"
+	},
+	{
+		"abr": "largefishingtrap",
+		"price": 281,
+		"category": "Production",
+		"defname": "VME_LargeFishingTrap"
+	},
+	{
+		"abr": "m7lbayonet",
+		"price": 106,
+		"category": "Melee weapons",
+		"defname": "ROCA_M7LBayonet"
+	},
+	{
+		"abr": "mechanoideffigy",
+		"price": 800,
+		"category": "Security",
+		"defname": "VME_MechanoidEffigy"
+	},
+	{
+		"abr": "mediumfishingtrap",
+		"price": 206,
+		"category": "Production",
+		"defname": "VME_MediumFishingTrap"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "mh-60ldapblackhawk(attack)",
+		"price": 6692,
+		"category": "Buildings",
+		"defname": "ELIFUH-60Attack"
+	},
+	{
+		"abr": "mh-6mlittlebird(transport)",
+		"price": 2650,
+		"category": "Buildings",
+		"defname": "ELIFMH-6LBTransport"
+	},
+	{
+		"abr": "nightvisiongoggles(tmc)",
+		"price": 303,
+		"category": "Headgear",
+		"defname": "TMCApparel_NightVisionTMC"
+	},
+	{
+		"abr": "ominousobelisk",
+		"price": 367,
+		"category": "Misc",
+		"defname": "VME_Obelisk"
+	},
+	{
+		"abr": "protectivetacticalvest",
+		"price": 98,
+		"category": "Armor",
+		"defname": "ROCA_Apparel_ProtectiveVestBlack"
+	},
+	{
+		"abr": "sappershowel",
+		"price": 197,
+		"category": "Melee weapons",
+		"defname": "ROCA_SapperShowel"
+	},
+	{
+		"abr": "shintaoslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_TaoistSlab_Broad"
+	},
+	{
+		"abr": "shintaoslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_TaoistSlab_Medium"
+	},
+	{
+		"abr": "shortfinmakoshark(adeptcatch)",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_ShortfinMakoSharkItem"
+	},
+	{
+		"abr": "smallfishingtrap",
+		"price": 131,
+		"category": "Production",
+		"defname": "VME_SmallFishingTrap"
+	},
+	{
+		"abr": "sraf:canary",
+		"price": 20258,
+		"category": "Buildings",
+		"defname": "SRAF"
+	},
+	{
+		"abr": "sraf:tek-7",
+		"price": 31292,
+		"category": "Buildings",
+		"defname": "SRAFTek"
+	},
+	{
+		"abr": "srtsmk.i:skip",
+		"price": 9150,
+		"category": "Buildings",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:albatross",
+		"price": 29875,
+		"category": "Buildings",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srtsmk.iii:phoenix",
+		"price": 52792,
+		"category": "Buildings",
+		"defname": "SRTSMkIII"
+	},
+	{
+		"abr": "srtsmk.iiip:pelican",
+		"price": 61100,
+		"category": "Buildings",
+		"defname": "SRTSMkIIIp"
+	},
+	{
+		"abr": "srtsmk.iv:genesis",
+		"price": 218617,
+		"category": "Buildings",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "strikebackpack(tmcblack)",
+		"price": 162,
+		"category": "Backpack",
+		"defname": "TMCApparel_Backpack"
+	},
+	{
+		"abr": "strikehelmet(tmcblack)",
+		"price": 425,
+		"category": "Headgear",
+		"defname": "TMCApparel_StrikeHelmet_Black"
+	},
+	{
+		"abr": "strikepants(tmcblack)",
+		"price": 122,
+		"category": "Clothes",
+		"defname": "TMCApparel_CombatPantsBlack"
+	},
+	{
+		"abr": "superpod",
+		"price": 6958,
+		"category": "Buildings",
+		"defname": "SRTSSuperpod"
+	},
+	{
+		"abr": "t65assaultrifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T65AR"
+	},
+	{
+		"abr": "t65assaultrifle(bayonet)",
+		"price": 858,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T65AR_Bayonet"
+	},
+	{
+		"abr": "t75k2pistol",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T75K2HG"
+	},
+	{
+		"abr": "t85grenadelauncher",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T85GL"
+	},
+	{
+		"abr": "t86assaultrifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T86AR"
+	},
+	{
+		"abr": "t86assaultrifle(ubgl)",
+		"price": 933,
+		"category": "",
+		"defname": "ROCA_T86AR_UBGL"
+	},
+	{
+		"abr": "t91assaultrifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T91AR"
+	},
+	{
+		"abr": "t91assaultrifle(bayonet)",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T91AR_Bayonet"
+	},
+	{
+		"abr": "t91assaultrifle(ubgl)",
+		"price": 800,
+		"category": "",
+		"defname": "ROCA_T91AR_UBGL"
+	},
+	{
+		"abr": "t91csaw",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T91SAW"
+	},
+	{
+		"abr": "t91sassaultrifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T91SAR"
+	},
+	{
+		"abr": "t93k1sniperrifle",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "ROCA_T93K1SR"
+	},
+	{
+		"abr": "tacklebox",
+		"price": 18,
+		"category": "Utility",
+		"defname": "VME_TackleBox"
+	},
+	{
+		"abr": "tacticalvest",
+		"price": 98,
+		"category": "Armor",
+		"defname": "ROCA_Apparel_TacVestBlack"
+	},
+	{
+		"abr": "tacticalvest(asid)",
+		"price": 98,
+		"category": "Armor",
+		"defname": "ROCA_Apparel_TacVestASID"
+	},
+	{
+		"abr": "uh-1yvenom(attack)",
+		"price": 4433,
+		"category": "Buildings",
+		"defname": "ELIFUH-1YVAttack"
+	},
+	{
+		"abr": "uh-1yvenom(transport)",
+		"price": 3858,
+		"category": "Buildings",
+		"defname": "ELIFUH-1YVTransport"
+	},
+	{
+		"abr": "uh-60blackhawk(transport)",
+		"price": 5758,
+		"category": "Buildings",
+		"defname": "ELIFUH-60Transport"
+	},
+	{
+		"abr": "v-22osprey(transport)",
+		"price": 21125,
+		"category": "Buildings",
+		"defname": "ELIFV-22Transport"
+	},
 	],
-	"total": 991
+	"total": 1147
 }
