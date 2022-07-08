@@ -6,6 +6,18 @@
     "version": "1.3.0.0"
   },
   {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "ELIF",
+    "name": "[ELIF] SRTS - Helicopters",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -90,6 +102,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Neptimus7",
+    "name": "Progress Renderer",
+    "steamId": "2010777010",
+    "version": "1.3.2"
+  },
+  {
     "author": "O Negative",
     "name": "Reworked Temperature Extreme Events [1.3]",
     "steamId": "1372130541",
@@ -159,7 +177,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.8084.14260"
+    "version": "1.0.8216.42657"
   },
   {
     "author": "Owlchemist",
@@ -171,7 +189,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.1.46"
+    "version": "1.1.48"
   },
   {
     "author": "dracoix",
@@ -195,7 +213,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "1.8.0.0"
+    "version": "2.4.0.0"
   },
   {
     "author": "VouLT",
@@ -687,7 +705,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "Jaxe",
@@ -795,7 +813,7 @@
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.0.0.0"
+    "version": "1.4.3.0"
   },
   {
     "author": "Windows XP",
@@ -837,25 +855,13 @@
     "author": "m00nl1ght-dev",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "0.0.0.0"
+    "version": "1.9.9.0"
   },
   {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
-  },
-  {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "ELIF",
-    "name": "[ELIF] SRTS - Helicopters",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "jeonggihun",
@@ -900,6 +906,18 @@
     "version": null
   },
   {
+    "author": "Oreno",
+    "name": "VPE - No Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Tittymcswaggy",
     "name": "TMC Strike Team Apparel",
     "steamId": null,
@@ -918,10 +936,16 @@
     "version": "1.3.0"
   },
   {
-    "author": "Neptimus7",
-    "name": "Progress Renderer",
-    "steamId": "2010777010",
-    "version": "1.3.2"
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
   },
   {
     "author": "Krkr",
