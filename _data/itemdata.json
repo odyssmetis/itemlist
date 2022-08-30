@@ -5637,7 +5637,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": "Bad"
+    "KarmaType": null
   },
   "YorkshireTerrier": {
     "CustomName": null,
